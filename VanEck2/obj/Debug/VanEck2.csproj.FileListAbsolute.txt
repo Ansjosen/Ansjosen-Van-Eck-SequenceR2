@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\VanEck2\VanEck2\bin\Debug\VanEck2.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\VanEck2\VanEck2\bin\Debug\VanEck2.exe
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\VanEck2\VanEck2\bin\Debug\VanEck2.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\VanEck2\VanEck2\obj\Debug\VanEck2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\VanEck2\VanEck2\obj\Debug\VanEck2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\VanEck2\VanEck2\obj\Debug\VanEck2.exe
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\VanEck2\VanEck2\obj\Debug\VanEck2.pdb
